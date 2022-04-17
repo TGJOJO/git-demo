@@ -8,3 +8,4 @@ hello world! hello git!
 hello world! hello git!
 Token git-demo: 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
 免密登录成功
+IDEA token: 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
